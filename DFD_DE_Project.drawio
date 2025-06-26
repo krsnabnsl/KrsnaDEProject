@@ -1,0 +1,169 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.1.6">
+  <diagram id="4FWdvlR6pv3Vk8jz97cj" name="Page-1">
+    <mxGraphModel dx="1678" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1712px-Amazon-S3-Logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="130" y="60" width="83.59" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png;" vertex="1" parent="1">
+          <mxGeometry x="350" y="73.42999999999999" width="130" height="73.13" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://t4.ftcdn.net/jpg/03/22/95/69/360_F_322956978_9ESBVewTYdhSu9G6qf2JazX9tUsdh53g.jpg;" vertex="1" parent="1">
+          <mxGeometry x="125" y="220" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-41" value="S3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="151.8" y="170" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-42" value="API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="320" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-43" value="Bronze Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="146.56" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-44" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/ICON%20-%20Black%20on%20Transparent.png;" vertex="1" parent="1">
+          <mxGeometry x="138.2" y="400" width="76.8" height="76.8" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-45" value="Kafka" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="483.13" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png;" vertex="1" parent="1">
+          <mxGeometry x="111.29999999999995" y="570" width="111" height="57.35" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-54" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="130" height="73.13" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-55" value="Bronze Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="293.13" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-56" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="130" height="73.13" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-57" value="Bronze Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="627.35" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-58" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png;" vertex="1" parent="1">
+          <mxGeometry x="350" y="554.22" width="130" height="73.13" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-61" value="Bronze Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="463.13" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-63" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png;" vertex="1" parent="1">
+          <mxGeometry x="540" y="73.43" width="130" height="73.13" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-64" value="Silver Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="146.56" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-65" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="130" height="73.13" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-66" value="Silver Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="293.13" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-67" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png;" vertex="1" parent="1">
+          <mxGeometry x="540" y="400" width="130" height="73.13" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-68" value="Silver Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="627.35" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-69" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png;" vertex="1" parent="1">
+          <mxGeometry x="540" y="554.22" width="130" height="73.13" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-70" value="Silver Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="463.13" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-71" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png;" vertex="1" parent="1">
+          <mxGeometry x="790" y="285" width="177.77" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-72" value="Gold Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="838.89" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-73" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="122" as="sourcePoint" />
+            <mxPoint x="350" y="122.49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-75" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="600" as="sourcePoint" />
+            <mxPoint x="350" y="600.49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-76" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="441.56" as="sourcePoint" />
+            <mxPoint x="350" y="442.05" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="280" as="sourcePoint" />
+            <mxPoint x="350" y="280.49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="120" as="sourcePoint" />
+            <mxPoint x="560" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-79" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="264.41" as="sourcePoint" />
+            <mxPoint x="560" y="264.41" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="264.41" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-80" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="441.56" as="sourcePoint" />
+            <mxPoint x="560" y="441.56" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="441.56" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="598.09" as="sourcePoint" />
+            <mxPoint x="560" y="598.09" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="598.09" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.111;exitY=0.115;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="a9_MdNg4y1Sbma6UAshd-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="350" as="sourcePoint" />
+            <mxPoint x="780" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-83" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="a9_MdNg4y1Sbma6UAshd-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="570" as="sourcePoint" />
+            <mxPoint x="790" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-84" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a9_MdNg4y1Sbma6UAshd-65" target="a9_MdNg4y1Sbma6UAshd-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="343.13" as="sourcePoint" />
+            <mxPoint x="730" y="293.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a9_MdNg4y1Sbma6UAshd-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="a9_MdNg4y1Sbma6UAshd-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="410" as="sourcePoint" />
+            <mxPoint x="780" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
