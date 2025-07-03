@@ -1,25 +1,12 @@
-Project Name: Retail Data Lake with Medallion Architecture (Not Yet Finalized)
+Overview - 
+This project implements a robust Retail Analytics Platform using the Medallion Architecture (Bronze → Silver → Gold) to process and analyze retail data efficiently.
+We ingest raw data from Amazon S3, perform structured streaming transformations with Databricks Auto Loader, and apply Slowly Changing Dimensions (SCD) to maintain historical data integrity.
 
-Data Sources:
-- Kafka: Real-time transaction stream
-- MySQL: Product Catalog
-- S3: Inventory Snapshots
-- API: Pricing service
-
-Technologies:
-- Python, PySpark, SQL
-- Databricks (Community Edition)
-- Open-source Kafka
-- GitHub for CI/CD
-
-Architecture: Medallion (Bronze → Silver → Gold)
-- Bronze: Raw data with minimal schema enforcement
-- Silver: Cleaned & deduplicated
-- Gold: Fact & Dimension tables for reporting
-
-Modeling: Star Schema in Gold Layer
-- `fact_sales`, `dim_product`, `dim_customer`, `dim_time`
-
-Orchestration: Databricks Workflows
-
-Validation: Python scripts for schema & quality checks
+Technologies Used - 
+Databricks
+Delta Lake
+Structured Streaming (Auto Loader)
+Apache Spark (PySpark)
+Amazon S3
+Medallion Architecture
+SCD Type-2 Implementation
